@@ -1,0 +1,5 @@
+[
+  { "directory": "",
+    "command": "/usr/bin/clang++ -stdlib=libc++ -std=c++14 -pedantic -Wall -o  clisp.cc",
+    "file": "clisp.cc" }
+]
